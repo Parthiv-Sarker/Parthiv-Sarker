@@ -19,6 +19,7 @@
 </p>
 
 <h3 align="left">Languages & Tools</h3>
+<p><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="LinkedIn" height="3" width="40"/></p>
 <p align="left">
   <a href="https://appwrite.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="Appwrite" width="40" height="40"/>
